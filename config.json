@@ -1,0 +1,4 @@
+{
+   "es_host": "CHANGE_WITH_YOUR_ES_HOST_IP",
+   "es_port": 9200
+}
